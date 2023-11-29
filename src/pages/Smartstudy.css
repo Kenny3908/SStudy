@@ -1,0 +1,696 @@
+.unlocking-knowledge-empowerin {
+    position: relative;
+    line-height: 62px;
+    display: inline-block;
+    width: 611px;
+  }
+  .welcome-to-smartstudyhub {
+    position: relative;
+    font-size: var(--font-size-4xl);
+    text-transform: capitalize;
+    font-family: var(--font-open-sans);
+    color: #716f6f;
+    display: inline-block;
+    width: 611px;
+  }
+  .unlocking-knowledge-empowerin-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-7xl);
+  }
+  .learn-more {
+    position: relative;
+    line-height: 20px;
+    font-weight: 600;
+  }
+  .big-button {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-mediumslateblue);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-xl) var(--padding-23xl);
+  }
+  .component-2 {
+    position: relative;
+    width: 161px;
+    height: 60px;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    font-family: var(--font-source-sans-pro);
+  }
+  .frame-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 68px;
+  }
+  .image-icon {
+    position: absolute;
+    height: 102.4%;
+    width: 129.97%;
+    top: 0;
+    right: -29.97%;
+    bottom: -2.4%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .container {
+    position: relative;
+    border-radius: var(--br-21xl) var(--br-21xl) var(--br-81xl) var(--br-21xl);
+    background-color: var(--color-lightgray-100);
+    width: 584px;
+    height: 584px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .frame-child,
+  .frame-inner,
+  .frame-item {
+    position: relative;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-mediumslateblue);
+    width: 70px;
+    height: 6px;
+  }
+  .frame-inner,
+  .frame-item {
+    background-color: var(--color-gainsboro);
+    width: 71px;
+  }
+  .frame-inner {
+    width: 70px;
+  }
+  .rectangle-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-6xs);
+  }
+  .frame-parent,
+  .hero-slide {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .hero-slide {
+    flex-direction: column;
+    gap: var(--gap-mid);
+  }
+  .frame-parent {
+    position: absolute;
+    top: 101px;
+    left: 57px;
+    flex-direction: row;
+    gap: 30px;
+  }
+  .smartstudy-inner {
+    position: absolute;
+    top: 127px;
+    left: 47px;
+    border-radius: var(--br-21xl);
+    background-color: var(--color-aliceblue);
+    width: 1449px;
+    height: 808px;
+    overflow: hidden;
+    font-family: var(--font-poppins);
+  }
+  .features {
+    color: var(--color-mediumslateblue);
+  }
+  .key-features {
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-transform: capitalize;
+  }
+  .group-child {
+    position: absolute;
+    top: 56px;
+    left: 96px;
+    width: 214.5px;
+    height: 11.3px;
+  }
+  .financial-icon,
+  .key-features-parent {
+    position: relative;
+    width: 311px;
+    height: 65.3px;
+  }
+  .financial-icon {
+    width: 102px;
+    height: 102px;
+  }
+  .free-textbooks {
+    align-self: stretch;
+    position: relative;
+    font-weight: 800;
+  }
+  .gain-access-to {
+    margin-bottom: 0;
+  }
+  .gain-access-to-a-diverse-range {
+    margin: 0;
+    padding-left: var(--padding-5xl);
+  }
+  .gain-access-to-container {
+    align-self: stretch;
+    position: relative;
+    font-size: var(--font-inherit);
+    line-height: 30px;
+    font-family: var(--font-inherit);
+    color: var(--gray1);
+  }
+  .free-textbooks-parent {
+    align-self: stretch;
+    display: flex;
+    justify-content: flex-start;
+    gap: var(--gap-mid);
+  }
+  .col,
+  .col1,
+  .financial-icon-parent,
+  .free-textbooks-parent {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .financial-icon-parent {
+    align-self: stretch;
+    display: flex;
+    justify-content: flex-start;
+    gap: var(--gap-17xl);
+  }
+  .col,
+  .col1 {
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    box-shadow: 0 0 20px rgba(226, 226, 226, 0.25);
+    width: 622px;
+    overflow: hidden;
+    flex-shrink: 0;
+    padding: var(--padding-42xl) var(--padding-29xl);
+    box-sizing: border-box;
+  }
+  .col {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .col1 {
+    height: 540px;
+  }
+  .col-parent,
+  .col1,
+  .group-parent {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .col-parent {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 39px;
+    font-size: var(--font-size-9xl);
+  }
+  .group-parent {
+    position: absolute;
+    top: 1008px;
+    left: 75px;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    font-size: 48px;
+  }
+  .the-platform-has {
+    position: relative;
+    line-height: 30px;
+    display: inline-block;
+    width: 384px;
+  }
+  .mrs-johnson-local {
+    position: relative;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+  }
+  .the-platform-has-transformed-t-parent {
+    position: absolute;
+    top: calc(50% - 68px);
+    left: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-xl);
+  }
+  .comment01 {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    box-shadow: 0 0 20px rgba(226, 226, 226, 0.25);
+    width: 480px;
+    overflow: hidden;
+  }
+  .comment01,
+  .comment01-parent,
+  .comment02 {
+    position: absolute;
+    height: 352px;
+  }
+  .comment02 {
+    top: 0;
+    left: 512px;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    box-shadow: 0 0 20px rgba(226, 226, 226, 0.25);
+    width: 480px;
+    overflow: hidden;
+  }
+  .comment01-parent {
+    top: 41px;
+    left: 26px;
+    width: 798px;
+    overflow-x: auto;
+  }
+  .reviews {
+    position: absolute;
+    top: calc(50% - 221.8px);
+    left: 508px;
+    width: 932px;
+    height: 443px;
+    overflow: hidden;
+  }
+  .what-people-are-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 382px;
+  }
+  .group-item {
+    position: absolute;
+    top: 50.7px;
+    left: 130px;
+    width: 161px;
+    height: 11px;
+  }
+  .what-people-are-say-about-us-parent {
+    position: relative;
+    width: 382px;
+    height: 126px;
+  }
+  .component-45-icon {
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .component-41-icon,
+  .component-45-icon {
+    position: relative;
+    border-radius: var(--br-11xl);
+    width: 60px;
+    height: 60px;
+  }
+  .component-45-parent,
+  .group-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-29xl);
+  }
+  .group-container {
+    position: absolute;
+    top: calc(50% - 117px);
+    left: 0;
+    flex-direction: column;
+  }
+  .frame-wrapper {
+    position: absolute;
+    top: calc(50% - 122.8px);
+    left: 92px;
+    width: 382px;
+    height: 234px;
+    font-size: 46px;
+    color: var(--color-black);
+  }
+  .reviews-parent {
+    position: absolute;
+    top: 1697.3px;
+    left: 0;
+    background-color: var(--color-aliceblue);
+    width: 1550px;
+    height: 633px;
+    overflow: hidden;
+    font-size: var(--font-size-lg);
+    color: var(--gray1);
+  }
+  .join-our-community {
+    align-self: stretch;
+    position: relative;
+    line-height: 62px;
+  }
+  .education-is-the {
+    position: relative;
+    font-size: var(--font-size-4xl);
+    text-transform: capitalize;
+    font-family: var(--font-open-sans);
+    color: #d2d1d1;
+    display: inline-block;
+    width: 899px;
+  }
+  .big-button3 {
+    border-radius: var(--br-8xs);
+    background-color: #0e0f0f;
+    width: 208px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: var(--padding-xl) var(--padding-23xl);
+    box-sizing: border-box;
+    text-align: left;
+    font-size: var(--font-size-base);
+    font-family: var(--font-source-sans-pro);
+  }
+  .frame-container {
+    position: absolute;
+    top: calc(50% - 140.5px);
+    left: calc(50% - 449.5px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 41px;
+  }
+  .smartstudy-child {
+    position: absolute;
+    top: 2403px;
+    left: 75px;
+    border-radius: var(--br-11xl);
+    background-color: var(--color-mediumslateblue);
+    width: 1383px;
+    height: 449px;
+    overflow: hidden;
+    text-align: center;
+    color: var(--color-white);
+    font-family: var(--font-poppins);
+  }
+  .frame-icon {
+    position: relative;
+    width: 48px;
+    height: 48px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .smartstudyhub {
+    position: relative;
+    font-weight: 600;
+  }
+  .frame-parent1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-6xs);
+  }
+  .smartstudyhub-all-rights {
+    position: relative;
+    font-size: var(--font-size-base);
+    letter-spacing: 1px;
+    font-family: var(--font-poppins);
+    display: inline-block;
+    width: 352px;
+    flex-shrink: 0;
+  }
+  .frame-child1 {
+    position: relative;
+    width: 158px;
+    height: 26px;
+  }
+  .frame-div {
+    position: absolute;
+    top: 45px;
+    left: 74px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 277px;
+  }
+  .footer,
+  .home,
+  .text1 {
+    position: absolute;
+    left: 0;
+  }
+  .footer {
+    bottom: 0;
+    background-color: var(--color-black);
+    width: 1550px;
+    height: 171px;
+    overflow: hidden;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    font-family: var(--font-source-sans-pro);
+  }
+  .home,
+  .text1 {
+    width: 100%;
+    letter-spacing: -0.02em;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .text1 {
+    top: 0;
+    font-weight: 600;
+  }
+  .home {
+    top: 79.17%;
+    color: var(--pri1-1);
+  }
+  .component-14 {
+    position: relative;
+    width: 83px;
+    height: 48px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .contact-us {
+    position: absolute;
+    top: 79.17%;
+    left: 9.8%;
+    letter-spacing: -0.02em;
+    line-height: 48px;
+    color: var(--pri1-1);
+  }
+  .component-15,
+  .component-211 {
+    position: relative;
+    width: 100px;
+    height: 48px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .component-15 {
+    width: 131px;
+  }
+  .contact-us1,
+  .contact-us2 {
+    position: absolute;
+    top: 79.17%;
+    left: 5.8%;
+    letter-spacing: -0.02em;
+    line-height: 48px;
+    color: var(--pri1-1);
+  }
+  .contact-us2 {
+    left: -1.2%;
+  }
+  .component-221 {
+    position: relative;
+    width: 83px;
+    height: 48px;
+    overflow: hidden;
+    flex-shrink: 0;
+    color: var(--color-mediumslateblue);
+  }
+  .big-button4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-mediumslateblue);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-xs) var(--padding-5xl);
+  }
+  .component-23 {
+    position: relative;
+    width: 106px;
+    height: 44px;
+    text-align: left;
+    color: var(--color-white);
+    font-family: var(--font-source-sans-pro);
+  }
+  .component-14-parent,
+  .frame-parent2 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .component-14-parent {
+    top: 29px;
+    left: 528px;
+    gap: 24px;
+  }
+  .frame-parent2 {
+    top: 26px;
+    left: 75px;
+    gap: var(--gap-6xs);
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-black);
+    font-family: var(--font-source-sans-pro);
+  }
+  .nav-bar,
+  .smartstudy {
+    width: 100%;
+    overflow: hidden;
+  }
+  .nav-bar {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: #f9fdff;
+    height: 100px;
+    text-align: center;
+    font-size: var(--font-size-base);
+    color: var(--gray3);
+  }
+  .smartstudy {
+    position: relative;
+    background-color: var(--color-white);
+    height: 3163px;
+    text-align: left;
+    font-size: var(--font-size-30xl);
+    color: var(--color-black);
+    font-family: var(--font-open-sans);
+  }
+  
+
+@media (max-width: 768px) {
+  .unlocking-knowledge-empowerin,
+  .welcome-to-smartstudyhub,
+  .unlocking-knowledge-empowerin-parent,
+  .learn-more,
+  .big-button,
+  .component-2,
+  .frame-group,
+  .image-icon,
+  .container,
+  .frame-child,
+  .frame-inner,
+  .frame-item,
+  .rectangle-parent,
+  .frame-parent,
+  .smartstudy-inner,
+  .features,
+  .key-features,
+  .group-child,
+  .financial-icon,
+  .free-textbooks,
+  .gain-access-to,
+  .gain-access-to-a-diverse-range,
+  .gain-access-to-container,
+  .free-textbooks-parent,
+  .col,
+  .col1,
+  .financial-icon-parent,
+  .financial-icon,
+  .col-parent,
+  .group-parent,
+  .the-platform-has,
+  .mrs-johnson-local,
+  .the-platform-has-transformed-t-parent,
+  .comment01,
+  .comment01-parent,
+  .comment02,
+  .reviews,
+  .what-people-are-container,
+  .group-item,
+  .what-people-are-say-about-us-parent,
+  .component-45-icon,
+  .component-41-icon,
+  .component-45-parent,
+  .group-container,
+  .frame-wrapper,
+  .reviews-parent,
+  .join-our-community,
+  .education-is-the,
+  .big-button3,
+  .frame-container,
+  .smartstudy-child,
+  .frame-icon,
+  .smartstudyhub,
+  .frame-parent1,
+  .smartstudyhub-all-rights,
+  .frame-child1,
+  .frame-div,
+  .footer,
+  .home,
+  .text1,
+  .component-14,
+  .contact-us,
+  .component-15,
+  .component-211,
+  .component-221,
+  .big-button4,
+  .component-23,
+  .component-14-parent,
+  .frame-parent2,
+  .nav-bar,
+  .smartstudy {
+      width: 100%;
+      margin: 0;
+  }
+
+  /* Add padding or adjust styles for better spacing */
+  .frame-parent,
+  .group-parent,
+  .frame-parent2 {
+      gap: 20px;
+  }
+
+  /* Adjust font sizes for better readability on smaller screens */
+  .welcome-to-smartstudyhub,
+  .education-is-the,
+  .smartstudyhub-all-rights {
+      font-size: 18px;
+  }
+
+  /* Make big buttons more touch-friendly */
+  .big-button,
+  .big-button3,
+  .big-button4 {
+      padding: 15px 20px;
+      font-size: 16px;
+  }
+}
+  

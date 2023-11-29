@@ -1,0 +1,39 @@
+/* Navbar.css */
+nav {
+    background-color: #333;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: #fff;
+    background-color: rgb(248, 248, 248) ;
+    color: red;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-xs) var(--padding-5xl);
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  li {
+    margin-right: 15px;
+  }
+  
+  Link {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  Link:hover {
+    text-decoration: underline;
+    color: red;
+  }
+  
